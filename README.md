@@ -9,6 +9,8 @@ decided that we would create an app that would work for all and sundry.
 So we make the multipurpose application with the lower storage and it
 needs lower specifications.</p>
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCS_FOxW51GyqB3lUbHkHeZ5JrpmA28jHUVoMPnKf6wOh2Tb83sVXaX_nAm4ZIBS9iKC3iemOG_jyghFQOOZ-WoRhm4EQk3wXC5hbwiPjtP5ceTsJdLEpKUgnUi5aykSf0oVZBpncm95gwWPZH2UfOGNcsK7hXEe_gv51ftOgnp21NekQ483FctsEA6g/s1600/Portfolio-Projects%20%281%29.png">
+
 <h5>1.2 PURPOSE</h5>
 This project is aimed at developing an Application, which is of importance
 to all mobile phone(android phone) users. This is a free to use application
